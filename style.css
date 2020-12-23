@@ -1,0 +1,65 @@
+h1{
+    font-family: cursive;
+    font-size: 50px;
+    font-style: italic;
+    background-image:url(images/reel3.gif);
+    background-repeat:repeat;
+    color: mediumturquoise;
+    height: 60px;
+    width: 1500px;
+    padding-bottom: 70px;
+    padding-top: 50px;
+    
+}
+
+table{
+    border-collapse: collapse;
+    background-repeat: no-repeat;
+    display: block;
+    width: 600px;
+    height: 1410px;
+}
+
+#table-bar{
+    font-weight: 1000;
+    font-size: 30px;
+    font-family: sans-serif;
+    color:royalblue;
+}
+
+td{
+    color: white;
+    padding: 15px;
+}
+
+#rank-1{
+    font-weight: 600;
+    color: gold;
+    font-family: serif;
+    text-align: left;
+}
+
+#rank-2{
+    font-weight: 600;
+    color: silver;
+    font-family: serif;
+    text-align: left;
+}
+
+#rank-3{
+    font-weight: 600;
+    color: saddlebrown;
+    font-family: serif;
+    text-align: left;
+}
+
+th{
+    padding: 15px;
+}
+
+html{
+     background-image: url(images/star2.gif);
+     background-repeat: repeat;
+     display: block;
+    height: 1500px;         
+}
